@@ -26,7 +26,7 @@ Flask-SQLAlchemy-Session==1.1
 Flask-SQLAlchemySession==0.0.4
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 kiwisolver==1.0.1
 kombu==4.1.0
 Mako==1.0.7
